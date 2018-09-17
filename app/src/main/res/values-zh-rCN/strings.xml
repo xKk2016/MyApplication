@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="helloworld">你好世界！</string>
+    <string name="button">按钮</string>
+    <string name="sw">切换</string>
+    <string name="todo">TODO</string>
+</resources>
